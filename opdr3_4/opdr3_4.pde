@@ -1,7 +1,7 @@
 void setup(){
 
    size(700,400);
-   background(0,100,255);
+   background(0,170,255);
    
    stroke(255,255,255);
    fill(0,0,0);
