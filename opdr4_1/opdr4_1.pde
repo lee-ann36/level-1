@@ -11,5 +11,4 @@ void setup(){
   fill(0,a,e);
   rect(a,b,c,d);
   
-  
 }
